@@ -7,5 +7,5 @@
 ## Interest
 Artificial Intelligence, Machine Learning, full-stack development, game development
 
-## Hoby
-cooking, programming, listening to kpop, collecting specimen, 
+## Hobby
+cooking, programming, listening to kpop, collecting insect/animal specimen 
