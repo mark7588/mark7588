@@ -1,6 +1,6 @@
 # TaeJoon's Repository 
 
-## Educatopm
+## Education
 - Computer Science, B.S., North Carolina State University (2022 May)
 - Myeong Duk Foreign Language Highschool, Seoul, South Korea (2016)
 
@@ -12,10 +12,10 @@
 - Dev tools: Eclipse, VS Code, Intellij, git (version control), gitHub code analysis, gitHub Copilot 
 
 ## Interest
-Web application development - Angular,React,Java 
-AI/ML 
-Cooking food
-Watching horror moveis, Japanese Animation
+- Web application development - Angular,React,Java 
+- AI/ML 
+- Cooking food
+- Watching horror moveis, Japanese Animation
 
 
 
