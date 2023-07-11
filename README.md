@@ -15,7 +15,7 @@
 - Web application development - Angular,React,Java 
 - AI/ML 
 - Cooking food
-- Watching horror moveis, Japanese Animation
+- Watching horror movies, Japanese Animation
 
 
 
