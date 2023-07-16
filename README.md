@@ -6,13 +6,14 @@
 
 ## Skills
 - Team work: version control (github), Agile methodology, Jira, Confluence 
-- Frontend: HTML/CSS, JavaScript, React
-- Backend: Java, Node.js, Express.js, Python, JDBC, Hibernate
-- Databases: MySQL, mariaDB server
-- Dev tools: Eclipse, VS Code, Intellij, git (version control), gitHub code analysis, gitHub Copilot 
+- Frontend: HTML/CSS, JavaScript/TypeScript, React, Angular 
+- Backend: Java, Node.js, Express, Python, JDBC, Hibernate
+- DB/ETL: Microsoft SQL Server Management Studio, Microsoft SQL Server Integration Service,MySQL, AutoSys
+- Dev tools: Eclipse, VS Code, Intellij, git (version control)
 
 ## Interest
-- Web application development - Angular,React,Java 
+- Web application development
+- Software development
 - AI/ML 
 - Cooking food
 - Watching horror movies, Japanese Animation
