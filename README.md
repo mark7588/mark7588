@@ -1,26 +1,15 @@
-# TaeJoon's Repository 
-
+# TaeJoon Profile 
 ## Education
-- Computer Science, B.S., North Carolina State University (2022 May)
-
+- North Carolina State University
+- Bachelors of Science in Computer Science
 ## Skills
-- Collaboration skills: GitHub, Agile, Jira, Confluence 
-- Frontend: React, HTML/CSS, JavaScript
-- Backend: Java, Python, JavaScript, Visual Basic, C#
-- Frameworks: Spring, React, Angular
-- DB/ETL: MS SQL Server Management Studio, MS SQL Server Integration Service, MySQL, AutoSys
-- IDEs: Visual Studio, VS code, IntelliJ, Eclipse
-- CI/CD: Github Actions, Azure DevOps
-
-## Career Interest
-- Data Engineering
-- Data Analytics / Data Science 
-
-## Outside the work
-- Cooking Asian food
-- Watching Netflix; Horror, SF
-- Spend time with my family
-
+- Collaboration tools: GitHub, Agile, Jira, Confluence
+- Programming Languages: Java, Python, JavaScript
+- Frontend Libarries / Framework: React, Angular, Spring 
+- DB/ETL: MySQL, SQL Server Integration Service (SSIS), AutoSys: Work Automation, IBM Conect:Direct 
+- CI/CD: Github Actions, Azure DevOps, Jenkins, IBM Urban Code Deploy (UCD), Harness
+## Introdcution
+Analytical Data Engineer with experience at Wells Fargo since 2022, skilled in bridging data and business needs through logical problem-solving and modernizing legacy applications. Focused on fostering cohesive collaboration between data and business users to drive impactful outcomes. I am applying for Maasters in Computer Science to explore advanced level data science and ML. 
 
 
 
