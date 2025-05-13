@@ -1,7 +1,7 @@
 # TaeJoon Profile 
 ## Education
 - North Carolina State University
-- Bachelors of Science in Computer Science
+  -  Bachelors of Science in Computer Science
 ## Skills
 - Collaboration tools: GitHub, Agile, Jira, Confluence
 - Programming Languages: Java, Python, JavaScript
@@ -9,8 +9,7 @@
 - DB/ETL: MySQL, SQL Server Integration Service (SSIS), AutoSys: Work Automation, IBM Conect:Direct 
 - CI/CD: Github Actions, Azure DevOps, Jenkins, IBM Urban Code Deploy (UCD), Harness
 ## Introdcution
-Analytical Data Engineer with experience at Wells Fargo since 2022, skilled in bridging data and business needs through logical problem-solving and modernizing legacy applications. Focused on fostering cohesive collaboration between data and business users to drive impactful outcomes. I am applying for Maasters in Computer Science to explore advanced studies in data science and ML. 
-
+Data Engineer at Wells Fargo since 2022, experienced in aligning business needs with data-driven solutions through logical problem-solving and legacy system modernization. Passionate about bridging the gap between big data and business users to drive meaningful outcomes. Pursuing a Master's degree in Machine Learning and Artificial Intelligence to expand expertise and explore a long-term interest in building intelligent humanoid robots.
 
 
 
