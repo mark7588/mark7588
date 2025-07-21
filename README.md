@@ -13,4 +13,5 @@
 ## Introdcution
 Hi, I am currently working as a data engineer in Wells Fargo (33rd Company in F500, Top 3 bank in the US). I focus on ETL pipeline maintenance and migration projects. I am currently learning DevOps through OpenShift Container Platform migration project. Outside work, I am studying foundation knowledge in AI/ML and Python. I am pursuing master degree in Computer Science at UT Austin. 
 
-![IMG_0620](https://github.com/user-attachments/assets/c2f3270e-5f1f-40c2-ac45-826af9a47481)
+<img src="https://github.com/user-attachments/assets/c2f3270e-5f1f-40c2-ac45-826af9a47481" alt="alt text" width="400" height="600">
+
