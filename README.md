@@ -1,16 +1,16 @@
-# TaeJoon Profile 
+# TaeJoon 김태준
 ## Education
-- North Carolina State University (Graduated 2022)
+- The University of Texas, at Austin (Expected 2027)
+  - M.S. in Computer Science 
+- North Carolina State University, at Raleigh (Graduated 2022)
   -  B.S. in Computer Science
 ## Skills
 - Collaboration tools: GitHub, Agile, Jira, Confluence
-- Programming Languages: Java, Python, R, SQL, JavaScript 
-- Libarries / Framework: React, Angular, Spring 
+- Programming Languages: Java, Python, R, C/C++, SQL 
+- Libarries / Framework: Spring, PyTorch, TensorFlow 
 - DB/ETL: SQL Server Integration Service (SSIS), AutoSys: Work Automation, IBM Conect:Direct 
-- CI/CD: Github Actions, Azure DevOps, Jenkins, IBM Urban Code Deploy (UCD), Harness, Kubernetes, Docker
+- CI/CD: Github Actions, Azure DevOps, Jenkins, Harness, Kubernetes, Docker
 ## Introdcution
-Data Engineer at Wells Fargo since 2022, experienced in aligning business needs with data-driven solutions through logical problem-solving and legacy system modernization. Passionate about bridging the gap between big data and business users to drive meaningful outcomes. Pursuing a Master's degree in Machine Learning and Artificial Intelligence to expand expertise and explore a long-term interest in building intelligent humanoid robots.
+Hi, I am currently working as a data engineer in Wells Fargo (33rd Company in F500, Top 3 bank in the US). I focus on ETL pipeline maintenance and migration projects. I am currently learning DevOps through OpenShift Container Platform migration project. Outside work, I am studying foundation knowledge in AI/ML and Python. I am pursuing master degree in Computer Science at UT Austin. 
 
-
-
-
+![IMG_0620](https://github.com/user-attachments/assets/c2f3270e-5f1f-40c2-ac45-826af9a47481)
