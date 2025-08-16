@@ -1,4 +1,4 @@
-# TaeJoon 김태준
+# TaeJoon Kim - 김태준
 ## Education
 - The University of Texas, at Austin (Expected 2027)
   - M.S. in Computer Science 
