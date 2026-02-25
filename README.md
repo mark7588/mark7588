@@ -12,7 +12,7 @@
 - CI/CD: Github Actions, Jenkins, Harness, Kubernetes, Docker
 - Cloud: AWS (EC2, Lambda, S3), Terraform
 ## Introdcution
-Hi, I am currently working as a Data Engineer - MLOps in Regions bank. I focus on modernizing ETL pipelines for ML models using Python, AWS, Terraform, Spark, and Snowflake. I am pursuing master degree in Computer Science at The University of Texas at Austin.  My current goal is to transition into ML Engineer in Robotics company.
+Hi, I am currently working as a Data Engineer - MLOps in Regions bank. I focus on modernizing ETL pipelines for ML models using Python, AWS, Terraform, Spark, and Snowflake. I am pursuing master degree in Computer Science at The University of Texas at Austin. My immediate goal is to transition into Data Scientist or AI engineer after graduation. My ultimate goal is to make world better place to live with explainable and ethical AI. 
 Outside work, I love cooking, comedy improv, EDM/Techno music.
 ## If you want to know more about me and my expereince...
 https://mark7588.github.io/my_portfolio_website/
